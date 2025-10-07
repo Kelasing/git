@@ -1,4 +1,4 @@
-# 03-Workflow-Example: Default Git Development Workflow
+Workflow-Example: Default Git Development Workflow
 
 ---
 
