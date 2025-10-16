@@ -1,4 +1,4 @@
-# Workflow-Example: Default Terraform Development Workflow
+# Workflow Example: Default Terraform Development Workflow
 
 ---
 
